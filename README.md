@@ -1,0 +1,2 @@
+# Contact_Form_With_Both_ClientSide_And_ServerSide_Validation-Using_JavaScript_And_PHP-for-validation-
+A contact form with both client and server site validation.. It is important to note that it is very good to use both Client and server side Vaildation when you require a user to submit anything to a database server. In that case, if the user has its javascript turned of(bypassing the client side), the server side will still perform validation 
